@@ -31,7 +31,7 @@
 
 1.Open a terminal and run :
 
-    git clone 
+    git clone https://github.com/pavan-013/currencyconverter.git
     
 2.Navigate into the project directory:
 

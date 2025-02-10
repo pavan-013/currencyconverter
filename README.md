@@ -35,7 +35,7 @@ http://localhost:8080/currency-converting
 
 ---API Documentation
 
-![Image](https://github.com/user-attachments/assets/7045d6dd-70d1-4619-9b7d-3f5e0ddd75b6)
+![Image](https://github.com/user-attachments/assets/9d138800-bc25-4309-8e8c-cb6a53772dc7)
 
 ![Image](https://github.com/user-attachments/assets/5fd12716-0646-4adf-9d34-5b0cded557c5)
 
